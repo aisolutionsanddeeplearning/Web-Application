@@ -6,13 +6,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Yazmín's Resume Registry--"Yazmín 6e890e85" </title>
+<title>Resume Registry </title>
 <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
 
 <div class="container">
-<h1>Welcome to Yazmín's Resume Registry "Yazmín 6e890e85"</h1>
+<h1>Welcome to Resume Registry </h1>
 
 
   <?php
