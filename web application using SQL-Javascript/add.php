@@ -196,7 +196,7 @@ function checkDataInjection($data){
 <!DOCTYPE html>
 <html>
 <head>
-<title>Yazmín 6e890e85 - Adding Profile</title>
+<title>Adding Profile</title>
 <?php require_once "bootstrap.php"; ?>
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
