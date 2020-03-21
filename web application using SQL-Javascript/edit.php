@@ -265,12 +265,12 @@ function checkDataInjection($data){
 <!DOCTYPE html>
 <html>
 <head>
-<title>Yazmín 6e890e85 - Editing Profile</title>
+<title>Editing Profile</title>
 <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
 <div class="container">
-<h1>Yazmín 6e890e85 - Editing Profile for
+<h1>Editing Profile for
     <?php if ( isset($_REQUEST['name']) )
     {
         echo htmlentities($_REQUEST['name']);
