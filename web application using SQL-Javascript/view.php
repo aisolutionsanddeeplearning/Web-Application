@@ -50,12 +50,12 @@ if ( isset($_POST['Logout']) ) {
 <!DOCTYPE html>
 <html>
 <head>
-<title>Yazmín 6e890e85 - Position Database</title>
+<title>Position Database</title>
 <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
 <div class="container">
-<h1>Yazmín 6e890e85 - Positions for
+<h1>Positions for
     <?php if ( isset($_SESSION['name']) )
     {
         echo htmlentities($_SESSION['name']);
