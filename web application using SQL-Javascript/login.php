@@ -70,7 +70,7 @@ if ($failure==false){error_log("Login success ".$_POST['email']);}
 </head>
 <body>
 <div class="container">
-<h1>Yazmín 6e890e85- Please Log In</h1>
+<h1>Please Log In</h1>
 <?php
 // Note triple not equals and think how badly double
 // not equals would work here...
